@@ -1,5 +1,8 @@
 //初始化一个项目
-	git init			
+
+	git init	
+
+	
 //添加一个文件											
 	git add README.md	
 //提交一个文件											
